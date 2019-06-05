@@ -27,5 +27,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "contributors": {
+    "name" : "Misha Osinovskiy",
+    "email" : "misha.Osinovskiy@gmail.com",
+    "url" : "https://mynameismisha.com"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/djmisha/example-app.git"
   }
 }
