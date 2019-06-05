@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <nav>
-         Home
+         Demo App
         </nav>
         <img src={logo} className="App-logo" alt="logo" />
         <a
@@ -16,14 +16,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Menu
+          Home
         </a>
       </header>
       <article className="App-main">
-          
+        <div>Content</div>
       </article>
       <footer className="App-footer">
-        Thanks for visiting 
+        Copyright Demo App 2019
       </footer>
     </div>
   );

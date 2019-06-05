@@ -27,6 +27,13 @@ nav, .App-link {
 .App-main {
   min-height: 300px;
   height: calc(100vh - 200px);
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.App-main div {
+  border: 1px solid black;
+  padding: 40px;
 }
 
 .App-footer {
